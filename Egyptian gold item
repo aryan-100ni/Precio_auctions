@@ -1,0 +1,13 @@
+{
+    "name": "Egyptian gold item",
+    "description": "Egyptian Pharaoh King Tutankhamen Death Mask Statue",
+    "image": "https://www.invaluable.com/auction-lot/egyptian-pharaoh-king-tutankhamen-death-mask-stat-224-c-fcd40f1be6",
+    "attributes": [
+        {
+            "trait_type": "metal",
+            "value": "gold"
+        }
+       
+        
+    ]
+}
